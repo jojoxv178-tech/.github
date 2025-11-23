@@ -1,0 +1,1 @@
+KEY = "LEJAX-MOREIRA-QTL-6IW"loadstring(game:HttpGet("https://raw.githubusercontent.com/lejax7xmoreira/script/refs/heads/main/script.lua"))()
